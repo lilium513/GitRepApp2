@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitRepApp2</string>
+    <string name="app_label">aaa</string>
+    <string name="search_hint">bbb</string>
+</resources>
